@@ -1,0 +1,102 @@
+INTEGRANTE 1 — Gestión de Usuarios (Nossa)
+
+Incluye:
+
+Registro de compradores
+
+Registro de vendedores
+
+Inicios de sesión
+
+Perfiles de usuario
+
+Datos personales
+
+Historial de compras/ventas
+
+Métodos de pago
+
+
+
+Razón: Este módulo es base del sistema y debe estar primero.
+
+
+
+
+INTEGRANTE 2 — Gestión de Productos + Reseñas(Nicolas)
+
+Incluye:
+
+Catálogo de productos
+
+Categorías
+
+Filtros
+
+Subida de productos (fotos, precios, descripción)
+
+Sistema de reseñas
+
+Calificaciones
+
+Ranking de vendedores confiables
+
+
+Razón: Todo está relacionado con productos y su interacción.
+
+
+
+
+ INTEGRANTE 3 — Carrito + Pagos + Recomendaciones(Danna)
+
+Incluye:
+
+Carrito de compras
+
+Integración con pasarela de pagos
+
+Confirmación de pedidos
+
+Motor de recomendaciones
+
+Basado en compras
+
+Productos vistos
+
+Valoraciones
+
+
+
+Razón: Todo es parte del proceso de compra.
+
+
+
+
+ INTEGRANTE 4 — Panel de Administración + Seguridad(Bryam)
+
+Incluye:
+
+Gestión de usuarios (bloquear/activar)
+
+Validación de productos
+
+Reportes
+
+Ventas
+
+Productos más comprados
+
+Clientes frecuentes
+
+
+Seguridad
+
+Encriptación
+
+Certificados SSL
+
+Validación eco-amigable
+
+
+
+Razón: Todo lo que tenga que ver con control interno y protección.
